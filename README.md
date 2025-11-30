@@ -9,7 +9,7 @@
 </p>
 <div align="center">
 A command-line tool to easily manage and connect to machines via the Wallix bastion from terminal.
-Use with : https://www.wallix.com/
+</br>Use with : https://www.wallix.com/
 </div>
 
 ## Features
